@@ -15,9 +15,9 @@ I have 5 years of experience in software development and training, specializing 
 ## Projects
 
 Here you'll find a range of projects that showcase my skills and contributions:
-- [**Django-Rest**](https://github.com/Edrzapi/Spring-Boot-Project): 
-- [**Spring-Boot**](https://github.com/Edrzapi/Django-Rest-Project): 
-- [**Express**](https://github.com/Edrzapi/https://github.com/Edrzapi/Express-Backend): 
+- [**Django-Rest-API**](https://github.com/Edrzapi/Spring-Boot-Project)
+- [**Spring-Boot-API**](https://github.com/Edrzapi/Django-Rest-Project) 
+- [**Express-API**](https://github.com/Edrzapi/https://github.com/Edrzapi/Express-Backend)
 
 Feel free to explore these projects and provide feedback or contributions.
 
@@ -28,7 +28,6 @@ Here are some statistics that reflect my contributions and activities on GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edrzapi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edrzapi&layout=compact&theme=radical)
 
-Check out my GitHub profile: [Edrzapi](https://github.com/Edrzapi)
 
 
 ## Get in Touch
