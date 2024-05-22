@@ -1,23 +1,35 @@
-# Software Engineer and Trainer
+# Welcome to My GitHub Repository!
 
-Welcome to my GitHub repository! As a freelance Software Engineer and Trainer, I'm passionate about crafting high-performance, efficient, and robust software solutions while equipping the next generation of developers with the skills they need to excel in the ever-evolving tech landscape.
+Welcome to my GitHub repository! As a Software Engineer and Trainer, I'm passionate about crafting high-performance, efficient, and robust software solutions while equipping the next generation of developers with the skills they need to excel in the ever-evolving tech landscape.
 
-### 📊 Git Stats and Performance
+## About Me
 
-- **Repositories Created:** ![GitHub repositories](https://img.shields.io/badge/Repos-[Number]-green)
-- **Contributions:** ![GitHub contributions](https://img.shields.io/badge/Contributions-[Total number of contributions]-blue)
-- **Collaborations:** ![GitHub collaborators](https://img.shields.io/badge/Collaborations-[Number of collaborators]-purple)
-- **Languages Utilized:** [List of programming languages]
-- **Certifications:** [Any relevant certifications or credentials]
+I have 5 years of experience in software development and training, specializing in a variety of programming languages and technologies. My goal is to deliver innovative solutions and share my knowledge through comprehensive, learner-centric courses.
 
-### 💡 Projects to Showcase My Expertise
+### My Expertise:
+- **Software Development**: Skilled in SQL, Java, Python, JavaScript, and more.
+- **Training and Mentorship**: Experienced in creating and delivering bespoke training programs.
+- **DevOps and Automation**: Proficient in using tools like Git, AWS, Docker, and CI/CD pipelines.
+- **Web Development**: Expertise in both front-end (HTML, CSS, JavaScript) and back-end frameworks (Spring, Django).
 
-Here, you'll find a curated collection of software projects that highlight my expertise in various areas of software development. Each project is a testament to my commitment to code quality, best practices, and creative problem-solving. Feel free to explore and discover how I've tackled different challenges and contributed to the software development community.
+## Projects
 
-- [Project 1 Name](link-to-project-1): Brief description of the project and its significance.
-- [Project 2 Name](link-to-project-2): Explanation of the project's goals and key features.
-- [Project 3 Name](link-to-project-3): Insights into the technologies used and the problems solved.
+Here you'll find a range of projects that showcase my skills and contributions:
+- [**Django-Rest**](https://github.com/Edrzapi/Spring-Boot-Project): 
+- [**Spring-Boot**](https://github.com/Edrzapi/Django-Rest-Project): 
+- [**Express**](https://github.com/Edrzapi/https://github.com/Edrzapi/Express-Backend): 
 
-Whether you're here to explore my software engineering projects or to access training materials, you'll find a range of resources designed to help you succeed.
+Feel free to explore these projects and provide feedback or contributions.
 
-Feel free to browse, contribute, or reach out if you have any questions or need assistance. Let's explore the world of software together and unlock its full potential! 🌟
+## 📊 Git Stats and Performance
+
+Here are some statistics that reflect my contributions and activities on GitHub:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## Get in Touch
+
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via:
+- **Email**: [edrzapi@gmail.com](mailto:your.edrzapi@gmail.com)
+- 
+Thank you for visiting my GitHub repository. Happy coding!
