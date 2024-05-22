@@ -29,9 +29,10 @@ Here are some statistics that reflect my contributions and activities on GitHub:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edrzapi&layout=compact&theme=radical)
 
 
-
 ## Get in Touch
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via:
 - **Email**: [edrzapi@gmail.com](mailto:your.edrzapi@gmail.com)
+
+
 Thank you for visiting my GitHub repository. Happy coding!
