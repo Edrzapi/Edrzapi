@@ -34,5 +34,4 @@ Here are some statistics that reflect my contributions and activities on GitHub:
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via:
 - **Email**: [edrzapi@gmail.com](mailto:your.edrzapi@gmail.com)
-- 
 Thank you for visiting my GitHub repository. Happy coding!
