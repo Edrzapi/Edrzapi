@@ -15,8 +15,8 @@ I have 5 years of experience in software development and training, specializing 
 ## Projects
 
 Here you'll find a range of projects that showcase my skills and contributions:
-- [**Django-Rest-API**](https://github.com/Edrzapi/Spring-Boot-Project)
-- [**Spring-Boot-API**](https://github.com/Edrzapi/Django-Rest-Project) 
+- [**Spring-Boot-API**](https://github.com/Edrzapi/Spring-Boot-Project)
+- [**Django-Rest-API**](https://github.com/Edrzapi/Django-Rest-Project) 
 - [**Express-API**](https://github.com/Edrzapi/https://github.com/Edrzapi/Express-Backend)
 
 Feel free to explore these projects and provide feedback or contributions.
