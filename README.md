@@ -1,10 +1,9 @@
 # Welcome to My GitHub Repository!
-
-Welcome to my GitHub repository! As a Software Engineer and Trainer, I'm passionate about crafting high-performance, efficient, and robust software solutions while equipping the next generation of developers with the skills they need to excel in the ever-evolving tech landscape.
+As a Software Engineer and Trainer, I'm passionate about crafting high-performance, efficient, and robust software solutions while equipping the next generation of developers with the skills they need to excel in the ever-evolving tech landscape.
 
 ## About Me
 
-I have 5 years of experience in software development and training, specializing in a variety of programming languages and technologies. My goal is to deliver innovative solutions and share my knowledge through comprehensive, learner-centric courses.
+I have 7 years of experience in software development and training, specializing in a variety of programming languages and technologies. My goal is to deliver innovative solutions and share my knowledge through comprehensive, learner-centric courses.
 
 ### My Expertise:
 - **Software Development**: Skilled in SQL, Java, Python, JavaScript, and more.
