@@ -24,6 +24,8 @@ Feel free to explore these projects and provide feedback or contributions.
 
 
 Here are some statistics that reflect my contributions and activities on GitHub:
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edrzapi&layout=compact&theme=radical)
 
 
