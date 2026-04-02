@@ -21,6 +21,8 @@ Structured, language-focused courses that take delegates from first principles t
 | [Python Zero to Hero](https://github.com/Edrzapi/Python_zero_hero) | Python 3.10+ | Basics, OOP, file I/O, databases, APIs, testing |
 | [Java Zero to Hero](https://github.com/Edrzapi/Java_zero_hero) | Java 21 | Basics, OOP, collections, JDBC, concurrency, networking, JUnit 5 |
 | [C# Zero to Hero](https://github.com/Edrzapi/CS_zero_hero) | C# / .NET 8 | Basics, OOP, LINQ, WPF, file I/O, exceptions |
+| [JavaScript Zero to Hero](https://github.com/Edrzapi/JavaScript_zero_hero) | JavaScript ES2022+ | Basics, OOP, async/await, DOM, closures, Promises |
+| [SQL Zero to Hero](https://github.com/Edrzapi/SQL_zero_hero) | MySQL 8.0+ | SELECT, joins, aggregation, window functions, normalisation, ACID |
 
 Each course includes runnable examples, in-code commentary, and hands-on tasks.
 
