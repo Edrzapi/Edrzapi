@@ -1,20 +1,29 @@
 # Hi, I'm Ed
 
-I'm a software engineer and technical trainer based in the UK. I've spent the last 8+ years building cloud platforms, writing production code, and teaching people how to do both.
+I'm a software engineer and technical trainer with 8+ years across backend development, cloud platforms, data engineering, and systems programming. I write production code, build training programmes, and teach — from C memory management through to Azure data platforms.
 
-I run **Devfoundry**, where I deliver Azure data engineering, Terraform infrastructure, and DevOps automation for clients in finance, healthcare, and the public sector. Before going independent, I was a Principal Technical Learning Specialist at QA, where I designed and delivered advanced programmes for Lloyds, Barclays, NatWest, and the NHS — covering everything from Azure Databricks to CI/CD pipelines.
+I founded **Devfoundry** to deliver software consulting and technical training for enterprise clients. Before that I spent three years at QA as a Principal Technical Learning Specialist and SDET SME, designing and delivering programmes for banks (Lloyds, Barclays, NatWest), the NHS, and government clients. I've delivered hundreds of hours of classroom and remote training across Python, Java, C#, C/C++, JavaScript, SQL, and R.
 
-Most of my day-to-day work sits across **Azure Data Factory, Databricks, Terraform, Azure DevOps, Power BI**, and **Kubernetes**. I write production code in Python, C#, Java, and SQL, and I build backend services with FastAPI, Spring Boot, and Express. Right now I'm delivering DevOps and data platform work involving ADO pipelines, RBAC/SPN configuration, and AVD infrastructure.
+My day-to-day work spans:
 
-This profile is where I keep my teaching material, reference projects, and applied examples. If you're a training manager, a delegate, or a developer looking at my work — welcome, have a look around.
+- **Backend engineering** — FastAPI, Django, Spring Boot, Express.js, .NET
+- **Cloud and DevOps** — Azure, Terraform, Azure DevOps, Kubernetes, Docker, Argo CD, GitHub Actions
+- **Data engineering** — Azure Data Factory, Databricks, Delta Lake, Power BI, Synapse
+- **Data science and ML** — pandas, NumPy, TensorFlow, PyTorch, scikit-learn, R
+- **Systems programming** — C, C++, socket programming, memory management
+- **Databases** — PostgreSQL, MySQL, SQL Server, MongoDB, SQLAlchemy, Hibernate, Entity Framework
+- **Mobile** — Android (Kotlin), iOS (Swift/SwiftUI)
+- **Testing** — pytest, JUnit, NUnit, Selenium, Cypress, TDD/BDD
 
-**Certifications:** Azure Data Engineer Associate · Databricks Data Engineer Associate · Terraform Associate · TAP Accredited Trainer
+This profile is where I keep my teaching material, reference projects, and applied examples. If you're a training manager, a delegate, or a developer reviewing my work — have a look around.
+
+**Certifications:** Azure Data Engineer Associate · Databricks Data Engineer Associate · Terraform Associate · TAP Accredited Trainer (Advanced)
 
 ---
 
 ## Zero to Hero — Course Family
 
-These are my structured, language-focused teaching courses. Each one takes you from first principles through to applied topics, and they all follow the same layout so you can move between languages without losing your bearings.
+Structured, language-focused courses that take you from first principles through to applied topics. Every repo follows the same layout so you can move between languages without losing your bearings. Each includes runnable examples, in-code commentary, and hands-on tasks with solutions.
 
 | Course | Language | Topics |
 |--------|----------|--------|
@@ -24,13 +33,11 @@ These are my structured, language-focused teaching courses. Each one takes you f
 | [JavaScript Zero to Hero](https://github.com/Edrzapi/JavaScript_zero_hero) | JavaScript ES2022+ | Basics, OOP, async/await, DOM, closures, Promises |
 | [SQL Zero to Hero](https://github.com/Edrzapi/SQL_zero_hero) | MySQL 8.0+ | SELECT, joins, aggregation, window functions, normalisation, ACID |
 
-Every course includes runnable examples, in-code commentary, and hands-on tasks with solutions.
-
 ---
 
 ## Applied Projects
 
-Backend and API projects I've built across different stacks. These are working reference implementations, not throwaway demos.
+Working backend and API projects across different stacks.
 
 | Project | Stack | What It Covers |
 |---------|-------|----------------|
@@ -43,7 +50,7 @@ Backend and API projects I've built across different stacks. These are working r
 
 ## Mobile Development
 
-Teaching apps and tutorials for native Android and iOS development.
+Teaching apps and tutorials for native Android and iOS.
 
 | Project | Platform | Focus |
 |---------|----------|-------|
@@ -79,7 +86,7 @@ Teaching apps and tutorials for native Android and iOS development.
 
 ## Get in Touch
 
-If you'd like to discuss training delivery, consulting work, or collaboration:
+If you'd like to discuss training delivery, consulting, or collaboration:
 
 - **Email:** [edrzapi@gmail.com](mailto:edrzapi@gmail.com)
 - **GitHub:** [github.com/Edrzapi](https://github.com/Edrzapi)
