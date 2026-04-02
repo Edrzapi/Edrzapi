@@ -26,8 +26,9 @@ Backend and API projects demonstrating real-world patterns across different stac
 
 | Project | Stack | What It Covers |
 |---------|-------|----------------|
-| [Express Backend](https://github.com/Edrzapi/Express-Backend) | Node.js, Express, MongoDB | RESTful API, Swagger docs, CRUD |
+| [Express Backend](https://github.com/Edrzapi/Express-Backend) | Node.js, Express, MongoDB | RESTful API, Swagger docs, JWT auth, CRUD |
 | [Spring Boot Project](https://github.com/Edrzapi/Spring-Boot-Project) | Java, Spring Boot | REST API, Swagger, entity management |
+| [StorageLink API](https://github.com/Edrzapi/StorageLinkAuth) | Python, FastAPI, SQLAlchemy | REST API, JWT auth, layered architecture |
 | [Applied Scientific Python](https://github.com/Edrzapi/applied_scientific_python) | Python, pandas, NumPy | Data analysis, testing, CLI tools, CI/CD |
 
 ---
