@@ -41,7 +41,7 @@ Teaching repos covering test automation, TDD, and E2E testing across different f
 
 | Project | Stack | What It Covers |
 |---------|-------|----------------|
-| [Selenium Java Testing](https://github.com/Edrzapi/Selenium_Java_Testing-) | Java, Selenium 4, Cucumber 7 | Page Object Model, BDD, explicit waits, DriverFactory |
+| [Selenium Java Testing](https://github.com/Edrzapi/Selenium_Java_Testing) | Java, Selenium 4, Cucumber 7 | Page Object Model, BDD, explicit waits, DriverFactory |
 | [Cypress E2E Testing](https://github.com/Edrzapi/Cypress_E2E_Testing) | JavaScript, Cypress 13 | E2E testing, selectors, form interactions, API testing |
 | [TDD Unit Testing](https://github.com/Edrzapi/TDD_Unit_Testing) | Python, Java | pytest, JUnit 5, Mockito, parameterised tests |
 
