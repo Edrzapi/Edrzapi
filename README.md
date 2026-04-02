@@ -1,12 +1,12 @@
 # Hi, I'm Ed
 
-Azure Cloud, Data, and DevOps Engineer with 8+ years in software development and technical training. I design and deliver cloud-native data platforms, CI/CD pipelines, and infrastructure automation — and I teach others to do the same.
+I'm a software engineer and technical trainer based in the UK. I've spent the last 8+ years building cloud platforms, writing production code, and teaching people how to do both.
 
-I founded **Devfoundry** to deliver Azure architectures, Terraform IaC, Databricks engineering, and DevOps automation for enterprise and public-sector clients. Before that, I spent two years as a Principal Technical Learning Specialist at QA, running advanced programmes for major banks and the NHS in Azure Data Engineering, Databricks, Terraform, DevOps, and Python.
+I run **Devfoundry**, where I deliver Azure data engineering, Terraform infrastructure, and DevOps automation for clients in finance, healthcare, and the public sector. Before going independent, I was a Principal Technical Learning Specialist at QA, where I designed and delivered advanced programmes for Lloyds, Barclays, NatWest, and the NHS — covering everything from Azure Databricks to CI/CD pipelines.
 
-Day to day I work across Azure Data Factory, Databricks, Terraform, Azure DevOps, Kubernetes, and Argo CD. I write production code in Python, C#, Java, and SQL, and I build backend services with FastAPI, Spring Boot, and Express. Currently delivering DevOps and data platform work involving Power BI, ADO pipelines, RBAC/SPN configuration, and AVD infrastructure.
+Most of my day-to-day work sits across **Azure Data Factory, Databricks, Terraform, Azure DevOps, Power BI**, and **Kubernetes**. I write production code in Python, C#, Java, and SQL, and I build backend services with FastAPI, Spring Boot, and Express. Right now I'm delivering DevOps and data platform work involving ADO pipelines, RBAC/SPN configuration, and AVD infrastructure.
 
-This profile is a working portfolio — repositories here are teaching assets, reference implementations, and applied examples used in real training delivery.
+This profile is where I keep my teaching material, reference projects, and applied examples. If you're a training manager, a delegate, or a developer looking at my work — welcome, have a look around.
 
 **Certifications:** Azure Data Engineer Associate · Databricks Data Engineer Associate · Terraform Associate · TAP Accredited Trainer
 
@@ -14,7 +14,7 @@ This profile is a working portfolio — repositories here are teaching assets, r
 
 ## Zero to Hero — Course Family
 
-Structured, language-focused courses that take delegates from first principles through to applied topics. Each repo follows the same layout, covers the same core concepts, and cross-references the others.
+These are my structured, language-focused teaching courses. Each one takes you from first principles through to applied topics, and they all follow the same layout so you can move between languages without losing your bearings.
 
 | Course | Language | Topics |
 |--------|----------|--------|
@@ -24,13 +24,13 @@ Structured, language-focused courses that take delegates from first principles t
 | [JavaScript Zero to Hero](https://github.com/Edrzapi/JavaScript_zero_hero) | JavaScript ES2022+ | Basics, OOP, async/await, DOM, closures, Promises |
 | [SQL Zero to Hero](https://github.com/Edrzapi/SQL_zero_hero) | MySQL 8.0+ | SELECT, joins, aggregation, window functions, normalisation, ACID |
 
-Each course includes runnable examples, in-code commentary, and hands-on tasks.
+Every course includes runnable examples, in-code commentary, and hands-on tasks with solutions.
 
 ---
 
 ## Applied Projects
 
-Backend and API projects demonstrating real-world patterns across different stacks.
+Backend and API projects I've built across different stacks. These are working reference implementations, not throwaway demos.
 
 | Project | Stack | What It Covers |
 |---------|-------|----------------|
@@ -43,7 +43,7 @@ Backend and API projects demonstrating real-world patterns across different stac
 
 ## Mobile Development
 
-Native teaching apps and tutorials for Android and iOS.
+Teaching apps and tutorials for native Android and iOS development.
 
 | Project | Platform | Focus |
 |---------|----------|-------|
@@ -77,4 +77,10 @@ Native teaching apps and tutorials for Android and iOS.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edrzapi&layout=compact&theme=radical)
+## Get in Touch
+
+If you'd like to discuss training delivery, consulting work, or collaboration:
+
+- **Email:** [edrzapi@gmail.com](mailto:edrzapi@gmail.com)
+- **GitHub:** [github.com/Edrzapi](https://github.com/Edrzapi)
+- **LinkedIn:** [linkedin.com/in/edwardreynolds-dev](https://linkedin.com/in/edwardreynolds-dev)
