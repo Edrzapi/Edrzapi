@@ -1,40 +1,71 @@
-# Welcome to My GitHub Repository!
-As a Software Engineer and Trainer, I'm passionate about crafting high-performance, efficient, and robust software solutions while equipping the next generation of developers with the skills they need to excel in the ever-evolving tech landscape.
+# Hi, I'm Ed
 
-## About Me
+Software trainer and developer. I build structured course material, backend services, and mobile applications.
 
-I have 7 years of experience in software development and training, specializing in a variety of programming languages and technologies. My goal is to deliver innovative solutions and share my knowledge through comprehensive, learner-centric courses.
+This profile is a working portfolio — repositories here are teaching assets, reference projects, and applied examples used in real training delivery.
 
-### My Expertise:
-- **Software Development**: Skilled in SQL, Java, Python, JavaScript, and more.
-- **Training and Mentorship**: Experienced in creating and delivering bespoke training programs.
-- **DevOps and Automation**: Proficient in using tools like Git, AWS, Docker, and CI/CD pipelines.
-- **Web Development**: Expertise in both front-end (HTML, CSS, JavaScript) and back-end frameworks (Spring, Django).
+---
 
-## Projects
+## Zero to Hero — Course Family
 
-Here you'll find a range of projects that showcase my skills and contributions:
-- [**Spring-Boot-API**](https://github.com/Edrzapi/Spring-Boot-Project)
-- [**Django-Rest-API**](https://github.com/Edrzapi/Django-Rest-Project) 
-- [**Express-API**](https://github.com/Edrzapi/https://github.com/Edrzapi/Express-Backend)
-- [**FastAPI-Backend**](https://github.com/Edrzapi/https://github.com/Edrzapi/FastApi-Backend)
+Structured, language-focused courses that take delegates from first principles through to applied topics. Each repo follows the same layout, covers the same core concepts, and cross-references the others.
 
+| Course | Language | Topics |
+|--------|----------|--------|
+| [Python Zero to Hero](https://github.com/Edrzapi/Python_zero_hero) | Python 3.10+ | Basics, OOP, file I/O, databases, APIs, testing |
+| [Java Zero to Hero](https://github.com/Edrzapi/Java_zero_hero) | Java 21 | Basics, OOP, collections, JDBC, concurrency, networking, JUnit 5 |
+| [C# Zero to Hero](https://github.com/Edrzapi/CS_zero_hero) | C# / .NET 8 | Basics, OOP, LINQ, WPF, file I/O, exceptions |
 
-Feel free to explore these projects and provide feedback or contributions.
+Each course includes runnable examples, in-code commentary, and hands-on tasks.
 
-## 📊 Git Stats and Performance
+---
 
+## Applied Projects
 
-Here are some statistics that reflect my contributions and activities on GitHub:
+Backend and API projects demonstrating real-world patterns across different stacks.
 
+| Project | Stack | What It Covers |
+|---------|-------|----------------|
+| [Express Backend](https://github.com/Edrzapi/Express-Backend) | Node.js, Express, MongoDB | RESTful API, Swagger docs, CRUD |
+| [Spring Boot Project](https://github.com/Edrzapi/Spring-Boot-Project) | Java, Spring Boot | REST API, Swagger, entity management |
+| [Applied Scientific Python](https://github.com/Edrzapi/applied_scientific_python) | Python, pandas, NumPy | Data analysis, testing, CLI tools, CI/CD |
+
+---
+
+## Mobile Development
+
+Native teaching apps and tutorials for Android and iOS.
+
+| Project | Platform | Focus |
+|---------|----------|-------|
+| [Taskly Android](https://github.com/Edrzapi/Taskly_Android) | Android / Kotlin | Task management app |
+| [IOSTDD](https://github.com/Edrzapi/IOSTDD) | iOS / SwiftUI | Test-driven development practice |
+| [Android Retrofit API](https://github.com/Edrzapi/Android-Retrofit-API-Tutorial) | Android / Kotlin | REST API integration |
+| [Android SQLite](https://github.com/Edrzapi/Android-SQLite-Tutorial) | Android / Kotlin | Local database storage |
+| [IOS SQLite](https://github.com/Edrzapi/IOS-SQLite-Tutorial) | iOS / Swift | Local database storage |
+
+---
+
+## Web and Frontend
+
+| Project | Stack | What It Covers |
+|---------|-------|----------------|
+| [React Basics](https://github.com/Edrzapi/React_Basics) | React | Component patterns, state, props |
+| [Simple TDL React](https://github.com/Edrzapi/Simple_TDL_React) | React | Responsive to-do list |
+| [Simple TDL](https://github.com/Edrzapi/Simple_TDL) | HTML, CSS, JS | Vanilla JS to-do list |
+| [JavaScript Recap](https://github.com/Edrzapi/JavaScript_Recap) | JavaScript | Language refresher |
+
+---
+
+## Other Teaching Material
+
+| Repo | Purpose |
+|------|---------|
+| [Coding Fundamental Tasks](https://github.com/Edrzapi/Coding_Fundamental_Tasks) | Exercises for coding fundamentals courses |
+| [Cloud Fundamentals Info](https://github.com/Edrzapi/Cloud_Fundamentals_Info) | Cloud concepts reference |
+| [Selenium Initials](https://github.com/Edrzapi/Selenium_Initials) | Browser automation introduction |
+| [MySQL Connection with C#](https://github.com/Edrzapi/MYSQLConnectionWithCS) | Database connectivity in .NET |
+
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edrzapi&layout=compact&theme=radical)
-
-
-## Get in Touch
-
-I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via:
-- **Email**: [edrzapi@gmail.com](mailto:your.edrzapi@gmail.com)
-
-
-Thank you for visiting my GitHub repository. Happy coding!
