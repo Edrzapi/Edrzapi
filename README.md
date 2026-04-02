@@ -1,8 +1,14 @@
 # Hi, I'm Ed
 
-Software trainer and developer. I build structured course material, backend services, and mobile applications.
+Azure Cloud, Data, and DevOps Engineer with 8+ years in software development and technical training. I design and deliver cloud-native data platforms, CI/CD pipelines, and infrastructure automation — and I teach others to do the same.
 
-This profile is a working portfolio — repositories here are teaching assets, reference projects, and applied examples used in real training delivery.
+I founded **Devfoundry** to deliver Azure architectures, Terraform IaC, Databricks engineering, and DevOps automation for enterprise and public-sector clients. Before that, I spent two years as a Principal Technical Learning Specialist at QA, running advanced programmes for major banks and the NHS in Azure Data Engineering, Databricks, Terraform, DevOps, and Python.
+
+Day to day I work across Azure Data Factory, Databricks, Terraform, Azure DevOps, Kubernetes, and Argo CD. I write production code in Python, C#, Java, and SQL, and I build backend services with FastAPI, Spring Boot, and Express. Currently delivering DevOps and data platform work involving Power BI, ADO pipelines, RBAC/SPN configuration, and AVD infrastructure.
+
+This profile is a working portfolio — repositories here are teaching assets, reference implementations, and applied examples used in real training delivery.
+
+**Certifications:** Azure Data Engineer Associate · Databricks Data Engineer Associate · Terraform Associate · TAP Accredited Trainer
 
 ---
 
