@@ -100,6 +100,5 @@ Teaching apps and tutorials for native Android and iOS.
 
 If you'd like to discuss training delivery, consulting, or collaboration:
 
-- **Email:** [edrzapi@gmail.com](mailto:edrzapi@gmail.com)
+- **Email:** [admin@devfoundry.co.uk](mailto:admin@devfoundry.co.uk)
 - **GitHub:** [github.com/Edrzapi](https://github.com/Edrzapi)
-- **LinkedIn:** [linkedin.com/in/edwardreynolds-dev](https://linkedin.com/in/edwardreynolds-dev)
