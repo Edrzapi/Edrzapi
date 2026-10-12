@@ -29,12 +29,12 @@ Structured, language-focused courses that take you from first principles through
 
 | Course | Language | Topics |
 |--------|----------|--------|
-| [Python Zero to Hero](https://github.com/Edrzapi/Python_zero_hero) | Python 3.10+ | Basics, OOP, file I/O, databases, APIs, testing |
-| [Java Zero to Hero](https://github.com/Edrzapi/Java_zero_hero) | Java 21 | Basics, OOP, collections, JDBC, concurrency, networking, JUnit 5 |
-| [C# Zero to Hero](https://github.com/Edrzapi/CS_zero_hero) | C# / .NET 8 | Basics, OOP, LINQ, WPF, file I/O, exceptions |
-| [JavaScript Zero to Hero](https://github.com/Edrzapi/JavaScript_zero_hero) | JavaScript ES2022+ | Basics, OOP, async/await, DOM, closures, Promises |
-| [C++ Zero to Hero](https://github.com/Edrzapi/CPP_zero_hero) | C++20 / CMake | Compilation model and headers, C interop, memory and smart pointers, OOP in depth, templates and concepts, STL and ranges, concurrency, under the hood |
-| [SQL Zero to Hero](https://github.com/Edrzapi/SQL_zero_hero) | MySQL 8.0+ | SELECT, joins, aggregation, window functions, normalisation, ACID |
+| [Python Zero to Hero](https://github.com/devfoundry-training/Python_zero_hero) | Python 3.10+ | Basics, OOP, file I/O, databases, APIs, testing |
+| [Java Zero to Hero](https://github.com/devfoundry-training/Java_zero_hero) | Java 21 | Basics, OOP, collections, JDBC, concurrency, networking, JUnit 5 |
+| [C# Zero to Hero](https://github.com/devfoundry-training/CS_zero_hero) | C# / .NET 8 | Basics, OOP, LINQ, WPF, file I/O, exceptions |
+| [JavaScript Zero to Hero](https://github.com/devfoundry-training/JavaScript_zero_hero) | JavaScript ES2022+ | Basics, OOP, async/await, DOM, closures, Promises |
+| [C++ Zero to Hero](https://github.com/devfoundry-training/CPP_zero_hero) | C++20 / CMake | Compilation model and headers, C interop, memory and smart pointers, OOP in depth, templates and concepts, STL and ranges, concurrency, under the hood |
+| [SQL Zero to Hero](https://github.com/devfoundry-training/SQL_zero_hero) | MySQL 8.0+ | SELECT, joins, aggregation, window functions, normalisation, ACID |
 
 ---
 
