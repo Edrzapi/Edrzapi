@@ -4,7 +4,7 @@ I'm a software consultant and technical learning specialist with 8+ years in sof
 
 I founded **Devfoundry** in December 2023 to deliver software consulting and technical training. Working with QA and PTR, I've delivered hundreds of hours of customised learning paths for finance, public sector and SME clients, with learner satisfaction consistently above 95%.
 
-Before Devfoundry I spent almost four years at QA (2020 to 2023): as a developer building training content, a technical trainer leading course development in mobile development and non-functional and data-driven testing, an SDET SME technical specialist building bespoke courses for high-profile clients, and finally a Principal Technical Learning Specialist designing bootcamp programmes. I started out as a QA consultant at Siemens, building Mendix solutions with TDD. I hold a BEng in Aerospace Technology from Coventry University.
+I've worked with QA since 2018. I started as a QA consultant placed at Siemens, building Mendix solutions with TDD, then moved in-house as a developer building training content, a technical trainer leading course development in mobile development and non-functional and data-driven testing, an SDET SME technical specialist building bespoke courses for high-profile clients, and a Principal Technical Learning Specialist designing bootcamp programmes. Since 2023 I've continued to deliver for QA as a contractor through Devfoundry. I hold a BEng in Aerospace Technology from Coventry University.
 
 My day-to-day work spans:
 
