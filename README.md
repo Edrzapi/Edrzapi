@@ -1,8 +1,10 @@
 # Hi, I'm Ed
 
-I'm a software engineer and technical trainer with 8+ years across backend development, cloud platforms, data engineering, and systems programming. I write production code, build training programmes, and teach: from C memory management through to Azure data platforms.
+I'm a software consultant and technical learning specialist with 8+ years in software engineering and training. I design and deliver programmes in Python, Java, C, C++, C#, JavaScript (Node/Express) and R, from beginner fundamentals through to enterprise backend APIs, data analytics and machine learning systems, and from C/C++ memory management and sockets through to modern frameworks such as FastAPI, Django, Spring Boot and Express.
 
-I founded **Devfoundry** to deliver software consulting and technical training for enterprise clients. Before that I spent three years at QA, first as an SDET SME building test automation frameworks for Barclays, then as a Principal Technical Learning Specialist designing programmes for Lloyds, NatWest, and the NHS. I've delivered hundreds of hours of classroom and remote training across Python, Java, C#, C/C++, JavaScript, SQL, and R.
+I founded **Devfoundry** in December 2023 to deliver software consulting and technical training. Working with QA and PTR, I've delivered hundreds of hours of customised learning paths for finance, public sector and SME clients, with learner satisfaction consistently above 95%.
+
+Before Devfoundry I spent almost four years at QA (2020 to 2023): as a developer building training content, a technical trainer leading course development in mobile development and non-functional and data-driven testing, an SDET SME technical specialist building bespoke courses for high-profile clients, and finally a Principal Technical Learning Specialist designing bootcamp programmes. I started out as a QA consultant at Siemens, building Mendix solutions with TDD. I hold a BEng in Aerospace Technology from Coventry University.
 
 My day-to-day work spans:
 
